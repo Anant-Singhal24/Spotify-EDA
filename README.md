@@ -1,7 +1,7 @@
 
 ## Project Title:
 *DAI Assignment 1 - Spotify Dataset Analysis*
-🛠 Instructions
+## 🛠 Instructions
 ⚠️ If this Python notebook does not open in GitHub or shows a rendering issue:
 
 - Clone this repository and open the .ipynb file in Jupyter Notebook on your personal laptop.
@@ -10,7 +10,7 @@
 
 ## Author:
 *Anant - 23112015
-Chemical Engineering(CH1)*
+Chemical Engineering (CH1)*
 
 ## Project Overview:
 This project analyzes trends in the Spotify 2023 dataset, focusing on various audio features, song popularity, and factors influencing music trends. The objective is to derive meaningful insights regarding song characteristics, user preferences, and market trends.
